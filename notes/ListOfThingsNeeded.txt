@@ -1,0 +1,15 @@
+1) Mission
+2) Vision
+3) Statement of Faith
+4) One line description for the front home page 
+5) One sentence descriptions for Sunday School and Quiet Time circles
+6) Email ID and phone number to feature on the website
+7) Details regarding Cell Groups if required (?) - Area, Time, Leader
+8) (Optional) Small descriptive text about who we are describing the story of WLC 
+9) (Optional) One line description for each pastor
+10) High quality image of the WLC Logo
+11) High quality pictures to use on the website
+    - Pictures of service (congregation, sermon, worhsip)
+    - Pictures of post service activities (sunday school, quiet time circles, youth discussions, lunch?)
+    - Pictures of events (Anniversary celebration, Christmas program, Skits and dramas)
+    - Pictures of 3 pastors to feature on the about page
